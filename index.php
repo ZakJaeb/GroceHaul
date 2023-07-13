@@ -15,7 +15,7 @@
 		<!-- top -->
 		<div class="row">
 			<div class="col-lg-4">
-				<h1>View Grocery List</h1>
+				<h1>GroceHaul</h1>
 				<a href="add.php">Add Item</a>
 			</div>
 		<div class="row">
